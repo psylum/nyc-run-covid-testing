@@ -20,10 +20,24 @@ class Mapbox {
         const { wait_time, last_reported } = timesLookup.get(center.name)
         popup = formatPopup(center, ({ wait_time, last_reported }));
       }
-      new mapboxgl.Marker()
+      const marker = new mapboxgl.Marker()
         .setLngLat(center.coordinates)
         .setPopup(new mapboxgl.Popup().setHTML(popup))
-        .addTo(this.map)
+      const siteType = center.siteType || '';
+      // inject the type icon if one is present.
+      if (siteType) {
+        const textElt =
+          document.createElementNS("http://www.w3.org/2000/svg", 'text');
+        textElt.setAttribute("x", "-2");
+        textElt.setAttribute("y", "11");
+        textElt.setAttribute("class", 'marker-icon');
+        textElt.textContent = typeIcon(siteType);
+        const markerElt = marker.getElement();
+        const circles = markerElt.getElementsByTagNameNS(
+          "http://www.w3.org/2000/svg", 'circle');
+        if (circles) {Array.from(circles).pop().parentNode.append(textElt)}
+      }
+      marker.addTo(this.map)
     })
   }
 

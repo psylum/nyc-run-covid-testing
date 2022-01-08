@@ -24,3 +24,7 @@ body {
 .open {
   transform: translateY(-2px) rotate(-180deg);
 }
+
+text.marker-icon {
+  font-size: 15px;
+}
