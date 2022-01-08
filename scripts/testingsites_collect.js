@@ -1,11 +1,22 @@
 const axios = require("axios");
 const cheerio = require("cheerio");
 const cliProgress = require('cli-progress');
-const fs = require("fs")
+const fs = require("fs").promises;
 require('dotenv').config();
 
 const url = "https://www.nychealthandhospitals.org/covid-19-testing-sites/";
+const dataFile = "data/centers.json";
+let existingData;
 let progress;
+
+async function loadData() {
+  try {
+    const data = await fs.readFile(dataFile);
+    existingData = JSON.parse(data.toLocaleString());
+  } catch (e) {
+    // ignore any issue trying to read an existing file.
+  }
+}
 
 async function scrapeData() {
   try {
@@ -13,23 +24,52 @@ async function scrapeData() {
     const { data } = await axios.get(url);
     // Load HTML we fetched in the previous line
     const $ = cheerio.load(data);
-    // Select all the list items in plainlist class
-    const elements = $("p.m-b-20");
+    // Select all the section headers and their associated entries
+    // Or if they're not found, fall back to finding the known entry class.
+    const elements = [];
+    const headers = $("h3.m-b-20");
+    if (headers.length) {
+      for (const helt of headers) {
+        const heltId = helt.attribs.id;
+        const heltIdx = heltId.lastIndexOf("-");
+        const boroughVal = heltId.slice(0, heltIdx);
+        const heltText = $(helt).text();
+        const borough = boroughVal.charAt(0).toUpperCase()
+          + boroughVal.slice(1).replace("-", " ");
+        const siteType = heltId.slice(heltIdx+1);
+        const testType = heltText.includes(':') ? heltText.split(': ').pop() : '';
+        let nextNode = helt.next;
+        while (nextNode && (nextNode.type.toLowerCase() === 'text'
+                            || nextNode.name.toLowerCase() === 'p'))
+        {
+          if (nextNode.type.toLowerCase() === 'tag') {
+            elements.push({borough, siteType, testType, raw: $(nextNode).text()})
+          }
+          nextNode = nextNode.next;
+        }
+      }
+    }
+    else {
+      const entries = $("p.m-b-20").map((_, el) => {
+        return {raw: $(el).text()}
+      }).toArray();
+      elements.push(...entries)
+    }
 
     console.log(`LOG | Scraping ${elements.length} items...`)
-    Promise.all(elements.map((_, el) => $(el).text())) // asynchronously scrape details
+    Promise.all(elements) // asynchronously scrape details
       .then((data) => synchronousPromiseAll(data, geocodeLocation)) // synchronously get coordinates to stay under query limit (rather than asynchronous)
       .then((centers) => {  // write all data to a file
         const data = ({
           timestamp: new Date(),
           centers,
         })
-        fs.writeFile("data/centers.json", JSON.stringify(data, null, 2), (err) => {
+        fs.writeFile(dataFile, JSON.stringify(data, null, 2)).then(() => {
+          console.log("LOG | Successfully written data to file");
+        }).catch((err) => {
           if (err) {
             console.error(err);
-            return;
           }
-          console.log("LOG | Successfully written data to file");
         });
       })
 
@@ -37,8 +77,9 @@ async function scrapeData() {
     console.error(err);
   }
 }
-// Invoke the above function
-scrapeData();
+
+// Load existing data (if available), then run the scraper.
+loadData().then(scrapeData);
 
 // src: https://stackoverflow.com/questions/29880715/how-to-synchronize-a-sequence-of-promises
 function synchronousPromiseAll(array, fn) {
@@ -58,9 +99,9 @@ function synchronousPromiseAll(array, fn) {
   }, Promise.resolve());
 }
 
-function geocodeLocation(item, index, all) {
-  
-  const num = index + 1
+function geocodeLocation(obj, index, all) {
+  const item = obj.raw;
+  const num = index + 1;
   progress.update(num);
   if (num === all.length) {
     progress.stop();
@@ -72,6 +113,23 @@ function geocodeLocation(item, index, all) {
 
   const name = location[0]
   const address = location.slice(1, 3).map(d => d.trim())
+  // don't geocode an address when it's already available.
+  const existingEntry = (existingData.centers || []).find(
+    ctr => ctr && ctr.address.every((v,i) => v === address[i]))
+  if (existingEntry && existingEntry.coordinates)
+  {
+    return Promise.resolve({
+      name,
+      address,
+      borough: obj.borough || undefined,
+      siteType: obj.siteType || undefined,
+      testType: obj.testType || undefined,
+      coordinates: existingEntry.coordinates,
+      context: location.slice(3).map(d => d.trim()),
+    })
+  }
+  // else run the geocoder.
+
   const trimAndConcatAddress = [name, ...address]
     .reduce((t, v, i) => {
       if (i === 0) return v
@@ -93,6 +151,9 @@ function geocodeLocation(item, index, all) {
       return ({
         name,
         address,
+        borough: obj.borough || undefined,
+        siteType: obj.siteType || undefined,
+        testType: obj.testType || undefined,
         coordinates: ({ lat, lng }),
         context: location.slice(3).map(d => d.trim()),
       })

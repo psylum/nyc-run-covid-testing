@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-07T14:48:32.253Z",
+  "timestamp": "2022-01-08T04:18:09.045Z",
   "centers": [
     {
       "name": "Stars and Stripes Playground",
@@ -7,6 +7,9 @@
         "Baychester Ave & Crawford Ave,",
         "Bronx, NY 10466"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8852036,
         "lng": -73.83968999999999
@@ -23,6 +26,9 @@
         "2049 Bartow Ave",
         "Bronx, NY 10475"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8704537,
         "lng": -73.82911109999999
@@ -39,6 +45,9 @@
         "177 Dreiser Loop",
         "Bronx, NY 10475"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.876579,
         "lng": -73.8287211
@@ -55,6 +64,9 @@
         "135 Einstein Loop N",
         "Bronx, NY 10475"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8643855,
         "lng": -73.8224035
@@ -71,6 +83,9 @@
         "Corner of Lafayette Avenue and Morrison Avenue",
         "Bronx, NY 10473"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8171726,
         "lng": -73.8750973
@@ -87,6 +102,9 @@
         "1175 Boston Road",
         "Bronx, NY 10456"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.828712,
         "lng": -73.90346749999999
@@ -103,6 +121,9 @@
         "240 Food Center Drive (parking lot)",
         "Bronx, NY 10474"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8113172,
         "lng": -73.8725893
@@ -119,6 +140,9 @@
         "633 Olmstead Avenue",
         "Bronx, NY 10473"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.81929530000001,
         "lng": -73.8518245
@@ -135,6 +159,9 @@
         "E Fordham Rd & E Kingsbridge Rd,",
         "Bronx, NY 10458"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8621674,
         "lng": -73.8941597
@@ -151,6 +178,9 @@
         "432 Zerega Ave,",
         "Bronx, NY 10473"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8164714,
         "lng": -73.84435049999999
@@ -167,6 +197,9 @@
         "645 E. Tremont Ave",
         "Bronx, NY 10457"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8459605,
         "lng": -73.8918944
@@ -183,6 +216,9 @@
         "1421 Webster Ave",
         "Bronx, NY 10456"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.83698529999999,
         "lng": -73.9074503
@@ -199,6 +235,9 @@
         "3415 Olinville Avenue",
         "Bronx, NY 10467"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8757718,
         "lng": -73.8683903
@@ -215,6 +254,9 @@
         "860 Forest Ave",
         "Bronx, NY 10456"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8208333,
         "lng": -73.9047222
@@ -231,6 +273,9 @@
         "4100 Lowerre Pl",
         "Bronx, NY 10466"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.891084,
         "lng": -73.85949099999999
@@ -247,6 +292,9 @@
         "746 East 226th Street",
         "Bronx, NY 10466"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8880563,
         "lng": -73.8586368
@@ -263,6 +311,9 @@
         "Corner of Bronxwood Ave & Mace Ave,",
         "Bronx NY 10469"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8627485,
         "lng": -73.8610815
@@ -279,6 +330,9 @@
         "1925 Schieffelin Ave,",
         "Bronx, NY 10466"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8841875,
         "lng": -73.8450307
@@ -295,6 +349,9 @@
         "519 St Ann’s Ave,",
         "Bronx, NY 10455"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8129194,
         "lng": -73.913386
@@ -311,6 +368,9 @@
         "E. Kingsbridge Rd and Grand Concourse",
         "Bronx, NY 10458"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8648137,
         "lng": -73.8945473
@@ -327,6 +387,9 @@
         "E 183rd and Ryer ave.",
         "Bronx, NY 10458"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8573447,
         "lng": -73.8983506
@@ -343,6 +406,9 @@
         "156 W. 164th St.",
         "Bronx, NY 10452"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.83287809999999,
         "lng": -73.9296407
@@ -359,6 +425,9 @@
         "1070 Southern Blvd",
         "Bronx, NY 10459"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.825335,
         "lng": -73.89101699999999
@@ -375,6 +444,9 @@
         "705 Courtlandt Ave.",
         "Bronx, NY 10451"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.82040749999999,
         "lng": -73.91834639999999
@@ -391,6 +463,9 @@
         "Intersection of Aqueduct Ave and W 181st",
         "Bronx, NY 10453"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8578964,
         "lng": -73.9083337
@@ -407,6 +482,9 @@
         "Intersection of 168th and Park Ave",
         "Bronx, NY 10456"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8322677,
         "lng": -73.9077987
@@ -423,6 +501,9 @@
         "3800 East Tremont",
         "Bronx, NY 10465"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.82502119999999,
         "lng": -73.8208847
@@ -439,6 +520,9 @@
         "2550 Jerome Ave,",
         "Bronx, NY 10468"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.86502369999999,
         "lng": -73.89777269999999
@@ -457,6 +541,9 @@
         "Corner of Fulton Ave and East 173rd St,",
         "Bronx, NY 10457"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8406852,
         "lng": -73.8982801
@@ -475,14 +562,17 @@
         "68 East 161st Street",
         "Bronx, NY 10451"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8273407,
         "lng": -73.9253507
       },
       "context": [
         "Monday – Thursday,  9 a.m. – 6 p.m.",
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -493,6 +583,9 @@
         "Corner of 147th & Willis Ave",
         "Bronx, NY 10455"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8447819,
         "lng": -73.8648268
@@ -510,14 +603,17 @@
         "3425 Kossuth Ave,",
         "Bronx, NY 10467"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8805771,
         "lng": -73.8819216
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 6 p.m.",
-        "Friday, 8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -528,6 +624,9 @@
         "2780 Reservoir Ave,",
         "Bronx, NY"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8706673,
         "lng": -73.897646
@@ -545,6 +644,9 @@
         "Intersection of Aruther Ave. and Crescent Ave.",
         "Bronx, NY 10458"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8531982,
         "lng": -73.88913409999999
@@ -562,6 +664,9 @@
         "Intersection of Waterbury and Bradford",
         "Bronx, NY10461"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8381348,
         "lng": -73.83106269999999
@@ -579,6 +684,9 @@
         "Intersection of Grand Concourse and E 161st",
         "Bronx, NY10452"
       ],
+      "borough": "Bronx",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8286949,
         "lng": -73.9224792
@@ -596,6 +704,9 @@
         "545 East 142nd Street",
         "Bronx, New York 10454"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8101401,
         "lng": -73.9157383
@@ -613,6 +724,9 @@
         "1400 Pelham Parkway South",
         "Bronx, New York 10461"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8557535,
         "lng": -73.8464133
@@ -631,6 +745,9 @@
         "234 East 149th Street",
         "Bronx, New York 10451"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.817374,
         "lng": -73.9240962
@@ -648,6 +765,9 @@
         "1225 Gerard Avenue",
         "Bronx, New York 10452"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8362867,
         "lng": -73.9202294
@@ -665,6 +785,9 @@
         "3424 Kossuth Avenue",
         "Bronx, New York 10467"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8805787,
         "lng": -73.88108249999999
@@ -684,6 +807,9 @@
         "1920 Webster Avenue,",
         "Bronx, New York 10457"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.847961,
         "lng": -73.90028
@@ -700,6 +826,9 @@
         "105 Dreiser Loop",
         "Bronx, NY 10475"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8782553,
         "lng": -73.8284493
@@ -717,6 +846,9 @@
         "450 St. Ann’s Ave",
         "Bronx, NY 10455"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8114492,
         "lng": -73.91410669999999
@@ -735,13 +867,16 @@
         "325 E 156th Street",
         "Bronx, NY 10451"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8215263,
         "lng": -73.9176497
       },
       "context": [
-        "Monday – Friday, 8 a.m. – 4 p.m.",
-        "PCR Testing Available Here",
+        "Monday – Friday, 8:30 a.m. – 4 p.m.",
+        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -751,6 +886,9 @@
         "378 East 151st Street",
         "Bronx, NY 10455"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8176118,
         "lng": -73.91789829999999
@@ -767,6 +905,9 @@
         "832 E 166th Street",
         "Bronx, NY 10459"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8256342,
         "lng": -73.8997215
@@ -783,12 +924,16 @@
         "135 W Kingsbridge Rd",
         "Bronx, NY 10468"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8694029,
         "lng": -73.9030902
       },
       "context": [
-        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "Monday – Thursday, 9 a.m. – 2 p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -799,6 +944,9 @@
         "2184 White plains Rd",
         "Bronx, NY 10462"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8560005,
         "lng": -73.86731309999999
@@ -817,6 +965,9 @@
         "3445 Jerome Ave",
         "Bronx, NY 10467"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8814568,
         "lng": -73.883093
@@ -834,6 +985,9 @@
         "1878 Crossbronx Expwy",
         "Bronx, NY 10472"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8335777,
         "lng": -73.8631095
@@ -850,12 +1004,16 @@
         "959 E. 233rd Street",
         "Bronx, NY10466"
       ],
+      "borough": "Bronx",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.89116930000001,
         "lng": -73.84963669999999
       },
       "context": [
-        "Monday – Friday,  9:00a.m. -2:00p.m.",
+        "Monday – Thursday,  9:00a.m. -2:00p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -866,6 +1024,9 @@
         "5521 Mosholu Avenue,",
         "Bronx, NY 10471"
       ],
+      "borough": "Bronx",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.9033739,
         "lng": -73.903842
@@ -882,6 +1043,9 @@
         "4006 3rd Ave,",
         "Bronx, NY 10457"
       ],
+      "borough": "Bronx",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.84188820000001,
         "lng": -73.8984396
@@ -898,6 +1062,9 @@
         "1175 Boston Rd,",
         "Bronx, NY 10456"
       ],
+      "borough": "Bronx",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.828712,
         "lng": -73.90346749999999
@@ -914,6 +1081,9 @@
         "1471 Watson Ave,",
         "Bronx, NY 10472"
       ],
+      "borough": "Bronx",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.8259396,
         "lng": -73.88095700000001
@@ -931,6 +1101,9 @@
         "5521 Mosholu Avenue, Bronx, NY 10471",
         "Saturday, 10:00a.m. -4:00p.m."
       ],
+      "borough": "Bronx",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.9033739,
         "lng": -73.903842
@@ -947,6 +1120,9 @@
         "444 Albee Square W,",
         "Brooklyn, NY 11201"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6909398,
         "lng": -73.9830629
@@ -963,6 +1139,9 @@
         "Corner of 6th Avenue and 44th Street",
         "Brooklyn, NY 11232"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.647142,
         "lng": -74.0046194
@@ -979,6 +1158,9 @@
         "Marcy Plaza, Corner of Marcy Avenue and Fulton Street",
         "Brooklyn, NY 11216"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6803995,
         "lng": -73.9461432
@@ -995,6 +1177,9 @@
         "Nostrand Ave at Empire Blvd",
         "Brooklyn, NY 11225"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7006363,
         "lng": -73.941951
@@ -1011,6 +1196,9 @@
         "3700 Surf Ave",
         "Brooklyn, NY 11224"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.5735391,
         "lng": -74.0032852
@@ -1027,6 +1215,9 @@
         "1485 Pacific Street",
         "Brooklyn, NY 11216"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6773629,
         "lng": -73.94211539999999
@@ -1043,6 +1234,9 @@
         "670 Lafayette Ave",
         "Brooklyn, NY 11216"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.689612,
         "lng": -73.946732
@@ -1059,6 +1253,9 @@
         "485 Throop Ave",
         "Brooklyn, NY 11221"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6855549,
         "lng": -73.9411715
@@ -1075,6 +1272,9 @@
         "817 Livonia Avenue",
         "Brooklyn, NY 11207"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6660724,
         "lng": -73.8860973
@@ -1091,6 +1291,9 @@
         "2940 West 31st Street",
         "Brooklyn, NY 11224"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.57436300000001,
         "lng": -73.99794709999999
@@ -1107,6 +1310,9 @@
         "409 E 95th St",
         "Brooklyn, NY 11212"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.657291,
         "lng": -73.91828799999999
@@ -1123,6 +1329,9 @@
         "1100 Fulton St",
         "Brooklyn, NY 11238"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.681119,
         "lng": -73.956988
@@ -1139,6 +1348,9 @@
         "3002 Ft Hamilton Pkwy",
         "Brooklyn, NY 11218"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6480264,
         "lng": -73.9785505
@@ -1155,6 +1367,9 @@
         "80 Willoughby St",
         "Brooklyn, NY 11201"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.692053,
         "lng": -73.9854738
@@ -1171,6 +1386,9 @@
         "40 Flatbush Ave Ext",
         "Brooklyn, NY 11201"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6973547,
         "lng": -73.9855748
@@ -1187,6 +1405,9 @@
         "3002 Ft Hamilton Pkwy",
         "Brooklyn, NY 11218"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6480264,
         "lng": -73.9785505
@@ -1203,6 +1424,9 @@
         "618 East 108th Street",
         "Brooklyn, NY 11236"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.647794,
         "lng": -73.896267
@@ -1219,6 +1443,9 @@
         "2857 W. 8th Street",
         "Brooklyn, NY 11224"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.578546,
         "lng": -73.9760194
@@ -1235,6 +1462,9 @@
         "E 92nd St at Flatlands Ave",
         "Brooklyn, NY 11236"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6410846,
         "lng": -73.90514209999999
@@ -1251,6 +1481,9 @@
         "257 Utica Avenue",
         "Brooklyn, NY 11213"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6699229,
         "lng": -73.9314095
@@ -1267,6 +1500,9 @@
         "24th Ave and Bath Ave,",
         "Brooklyn, NY 11214"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.5956692,
         "lng": -73.9931423
@@ -1283,6 +1519,9 @@
         "Corner of Bay St & Clinton St",
         "Brooklyn, NY 11231"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6721595,
         "lng": -74.0072107
@@ -1299,6 +1538,9 @@
         "767 Hicks St",
         "Brooklyn, NY 11231"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6767619,
         "lng": -74.0045296
@@ -1315,6 +1557,9 @@
         "Corner of Troy Ave & Bergen St,",
         "Brooklyn, NY 11213"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6742179,
         "lng": -73.9350389
@@ -1331,6 +1576,9 @@
         "Corner of Glenwood Road & East 100th Street,",
         "Brooklyn, NY 11236"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6352122,
         "lng": -73.9283483
@@ -1347,6 +1595,9 @@
         "Corner of Thomas S. Boyland St. & Marion St,",
         "Brooklyn, NY 11233"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6816524,
         "lng": -73.9139151
@@ -1363,6 +1614,9 @@
         "Tilden Ave. between E. 48 St. and E. 49 St.",
         "Brooklyn, NY 11203"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.647649,
         "lng": -73.93142449999999
@@ -1379,6 +1633,9 @@
         "4002 Fort Hamilton Parkway",
         "Brooklyn, NY 11218"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6427149,
         "lng": -73.9922313
@@ -1395,6 +1652,9 @@
         "8511 and 8515 5th Avenue",
         "Brooklyn, NY 11209"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6217205,
         "lng": -74.0258617
@@ -1411,6 +1671,9 @@
         "1279 Pennsylvania Ave",
         "Brooklyn, NY 11239"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6496589,
         "lng": -73.8830396
@@ -1427,6 +1690,9 @@
         "6315 14th Avenue",
         "Brooklyn, NY 11219"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.625407,
         "lng": -73.9979369
@@ -1443,6 +1709,9 @@
         "Kingston Ave. and Park Pl",
         "Brooklyn, NY 11213"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.673499,
         "lng": -73.94323399999999
@@ -1459,6 +1728,9 @@
         "201 Gold Street,",
         "Brooklyn, NY 11201"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.69864099999999,
         "lng": -73.9828139
@@ -1475,14 +1747,17 @@
         "890 Flatbush Ave,",
         "Brooklyn, NY 11226"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6501369,
         "lng": -73.9589888
       },
       "context": [
         "Monday – Thursday,  9 a.m. – 6 p.m.",
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -1493,6 +1768,9 @@
         "1901 Ocean Pkwy,",
         "Brooklyn, NY 11223"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6024018,
         "lng": -73.9657278
@@ -1510,6 +1788,9 @@
         "Intersection of 70th St. and New Utrecht Ave.",
         "Brooklyn, NY 11228"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6191399,
         "lng": -73.998498
@@ -1527,6 +1808,9 @@
         "Intersection of 53rd St. and Fort Hamilton Pkwy",
         "Brooklyn, NY 11219"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.636919,
         "lng": -74.00067899999999
@@ -1544,6 +1828,9 @@
         "Intersection of Troy Ave. and Atlantic Ave.",
         "Brooklyn, NY 11213"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.67781799999999,
         "lng": -73.93443990000002
@@ -1561,6 +1848,9 @@
         "490 Clarkson Ave.",
         "Brooklyn, NY 11203"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6555296,
         "lng": -73.9438557
@@ -1578,6 +1868,9 @@
         "CTS Mobile Testing Unit",
         "121 Dekalb ave"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6914322,
         "lng": -73.975246
@@ -1585,8 +1878,8 @@
       "context": [
         "Brooklyn, NY 11201",
         "Monday – Thursday,  9 a.m. – 6 p.m.",
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -1597,6 +1890,9 @@
         "200 W 64th St.",
         "Brooklyn, NY 10023"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7737924,
         "lng": -73.986955
@@ -1614,6 +1910,9 @@
         "Intersection of 113th and Morningside Drive",
         "Brooklyn, NY 10026"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8060712,
         "lng": -73.9585391
@@ -1631,6 +1930,9 @@
         "Intersection of Suydam St. and Irving Ave.",
         "Brooklyn, NY 11237"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.70312819999999,
         "lng": -73.9238611
@@ -1647,14 +1949,17 @@
         "502 Clarkson Ave,",
         "Brooklyn, NY 11203"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6557444,
         "lng": -73.9427486
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 6 p.m.",
-        "Friday, 8 a.m. – 3 p.m.",
-        "Dates: Jan 5 – 7",
+        "Dates: Jan 5 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -1665,14 +1970,17 @@
         "760 Broadway,",
         "Brooklyn, NY 11206"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7000538,
         "lng": -73.9417768
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 6 p.m.",
-        "Friday, 8 a.m. – 3 p.m.",
-        "Dates: Jan 5 – 7",
+        "Dates: Jan 5 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -1683,6 +1991,9 @@
         "Intersection of 9th St. and Prospect Park West",
         "Brooklyn, NY 11215"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.664314,
         "lng": -73.97719599999999
@@ -1700,6 +2011,9 @@
         "Corner of Rutland Rd and Brooklyn Ave",
         "Brooklyn, NY 11203"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6589417,
         "lng": -73.9444777
@@ -1717,6 +2031,9 @@
         "Intersection Nostrand Ave. and Marine Pkwy",
         "Brooklyn11229"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6147023,
         "lng": -73.944969
@@ -1734,6 +2051,9 @@
         "Intersection of Hegeman Ave. and Osborn St.",
         "Brooklyn, NY11212"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.655635,
         "lng": -73.9059821
@@ -1751,6 +2071,9 @@
         "On Park Pl, between Grand and Glasson Ave.",
         "Brooklyn, NY11238"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6750757,
         "lng": -73.9621417
@@ -1768,6 +2091,9 @@
         "2601 Ocean Parkway",
         "Brooklyn, New York 11235"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.5855566,
         "lng": -73.9648753
@@ -1790,6 +2116,9 @@
         "100 North Portland Avenue",
         "Brooklyn, New York 11205"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.695099,
         "lng": -73.9764879
@@ -1807,6 +2136,9 @@
         "2094 Pitkin Avenue",
         "Brooklyn, New York 11207"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.671746,
         "lng": -73.8952429
@@ -1824,6 +2156,9 @@
         "T-Building, Room T-110 1st floor (Corner of Clarkson Avenue & New York Avenue)",
         "451 Clarkson Avenue"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6568816,
         "lng": -73.94470749999999
@@ -1843,6 +2178,9 @@
         "760 Broadway",
         "Brooklyn, New York 11206"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6994152,
         "lng": -73.9430003
@@ -1861,9 +2199,12 @@
         "4002 Fort Hamilton Parkway",
         "Brooklyn, NY 11218"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
-        "lat": 40.6424751,
-        "lng": -73.99195089999999
+        "lat": 40.6427149,
+        "lng": -73.9922313
       },
       "context": [
         "Monday – Sunday, 9 a.m. – 7 p.m.",
@@ -1877,6 +2218,9 @@
         "5th Ave 8511 & 8515 5th Avenue",
         "Brooklyn, NY 11209"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6258713,
         "lng": -74.02448129999999
@@ -1893,6 +2237,9 @@
         "6315 14th Avenue",
         "Brooklyn, NY 11219"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.625407,
         "lng": -73.9979369
@@ -1909,6 +2256,9 @@
         "1223 Coney Island Avenue",
         "Brooklyn, NY 11230"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6277129,
         "lng": -73.9655327
@@ -1916,6 +2266,7 @@
       "context": [
         "Monday – Sunday, 7 a.m. – 7 p.m.",
         "844-NYC-4NYC",
+        "Opens at 11 a.m. on Friday",
         "Rapid Molecular Testing Available Here",
         "Pre-register for your visit"
       ]
@@ -1926,6 +2277,9 @@
         "1279 Pennsylvania Ave",
         "Brooklyn, NY 11239"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6496589,
         "lng": -73.8830396
@@ -1942,13 +2296,18 @@
         "10 Grand Army Plaza (Testing entrance on Eastern parkway side between Grand Army Plaza and Mount Prospect Park)",
         "Brooklyn, NY 11238"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.67251110000001,
         "lng": -73.9682
       },
       "context": [
         "Monday – Thursday, 11 a.m. – 7 p.m.",
-        "Friday – Saturday, 10 a.m. -5 p.m.",
+        "Friday, 12 p.m – 5 p.m.",
+        "Saturday, 10 a.m. -5 p.m.",
+        "Opens at 12 p.m. on Friday",
         "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -1959,6 +2318,9 @@
         "1600 Rockaway Parkway",
         "Brooklyn, NY 11236"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.640443,
         "lng": -73.8987798
@@ -1975,6 +2337,9 @@
         "776 Lorimer Street",
         "Brooklyn, NY 11222"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7201302,
         "lng": -73.94999290000001
@@ -1992,6 +2357,9 @@
         "455 Jefferson Street,",
         "Brooklyn, NY 11237"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7088952,
         "lng": -73.9218519
@@ -2008,6 +2376,9 @@
         "198 Euclid Ave,",
         "Brooklyn, NY 11208"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6837322,
         "lng": -73.87475529999999
@@ -2024,6 +2395,9 @@
         "376 Bedford Ave,",
         "Brooklyn, NY 11249"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7115139,
         "lng": -73.9633841
@@ -2042,6 +2416,9 @@
         "10 Montieth Street,",
         "Brooklyn, NY 11206"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7012005,
         "lng": -73.9357079
@@ -2060,6 +2437,9 @@
         "620 Atlantic Avenue",
         "Brooklyn, NY 11217"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6826465,
         "lng": -73.97541559999999
@@ -2076,6 +2456,9 @@
         "5921 8th Ave",
         "Brooklyn, NY 11220"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6355475,
         "lng": -74.0092087
@@ -2092,6 +2475,9 @@
         "5002 Flatlands Ave",
         "Brooklyn, NY 11234"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6197853,
         "lng": -73.9331807
@@ -2108,6 +2494,9 @@
         "43 Jamaica Ave",
         "Brooklyn, NY 11207"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6781286,
         "lng": -73.8983416
@@ -2124,6 +2513,9 @@
         "331 Knickerbocker Ave",
         "Brooklyn, NY 11237"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7013794,
         "lng": -73.9223492
@@ -2140,6 +2532,9 @@
         "391 Eastern Parkway",
         "Brooklyn, NY 11216"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6705568,
         "lng": -73.9554211
@@ -2156,6 +2551,9 @@
         "2779-3861 Nostrand Ave",
         "Brooklyn, NY 11235"
       ],
+      "borough": "Brooklyn",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6167583,
         "lng": -73.9449815
@@ -2168,12 +2566,16 @@
         "4 years old and above"
       ]
     },
+    null,
     {
       "name": "Family Services Network of New York Access Center",
       "address": [
         "1721 Pitkin Ave,",
         "Brooklyn, NY 11212"
       ],
+      "borough": "Brooklyn",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.66920959999999,
         "lng": -73.9068951
@@ -2190,6 +2592,9 @@
         "63 Flushing Ave, building 92,",
         "Brooklyn, NY 11205"
       ],
+      "borough": "Brooklyn",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6983378,
         "lng": -73.9736053
@@ -2206,6 +2611,9 @@
         "140 58th Street,",
         "Brooklyn, NY 11220"
       ],
+      "borough": "Brooklyn",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6460627,
         "lng": -74.0244993
@@ -2222,6 +2630,9 @@
         "2925 W 19th St,",
         "Brooklyn, NY 11224"
       ],
+      "borough": "Brooklyn",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.5758659,
         "lng": -73.9855927
@@ -2238,6 +2649,9 @@
         "826 Greene Ave",
         "Brooklyn, NY 11221"
       ],
+      "borough": "Brooklyn",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6900555,
         "lng": -73.93506359999999
@@ -2255,6 +2669,9 @@
         "264 W 118th St",
         "New York, NY10026"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8052028,
         "lng": -73.9536622
@@ -2266,29 +2683,16 @@
         "4 years old and above"
       ]
     },
-    {
-      "name": "Quisqueya Playground",
-      "address": [
-        "2405 Amsterdam Ave",
-        "New York, NY10033"
-      ],
-      "coordinates": {
-        "lat": 40.8471006,
-        "lng": -73.9313288
-      },
-      "context": [
-        "Monday – Sunday,  8 a.m. – 7 p.m.",
-        "Dates: Jan 3 – 9",
-        "Rapid Antigen Testing Available Here",
-        "4 years old and above"
-      ]
-    },
+    null,
     {
       "name": "Vision Urbana",
       "address": [
         "6th Street and Ave D",
         "New York, NY 10009"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7173148,
         "lng": -73.9884464
@@ -2306,6 +2710,9 @@
         "34 W 134th Street",
         "New York, NY10037"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8127334,
         "lng": -73.9398989
@@ -2323,6 +2730,9 @@
         "210 West 142nd Street",
         "New York, NY 10030"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8196118,
         "lng": -73.94105019999999
@@ -2340,6 +2750,9 @@
         "132 West 138th Street",
         "New York, NY10030"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8166821,
         "lng": -73.9415561
@@ -2357,6 +2770,9 @@
         "245 Greenwich Street (at Park Place)",
         "New York, NY10007"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.71390780000001,
         "lng": -74.0113173
@@ -2374,6 +2790,9 @@
         "396 Grand Street",
         "New York, NY 10002"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7162021,
         "lng": -73.98695579999999
@@ -2391,6 +2810,9 @@
         "132 West 138th Street",
         "New York, NY10030"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8166821,
         "lng": -73.9415561
@@ -2408,6 +2830,9 @@
         "Parking lot located at 549 W 126th St,",
         "New York, NY 10027"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8177009,
         "lng": -73.9539246
@@ -2425,6 +2850,9 @@
         "75 Columbia Street,",
         "New York, NY 10002"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.717163,
         "lng": -73.9804611
@@ -2442,6 +2870,9 @@
         "On Dyckman St. across from 175 Nagle Ave.",
         "New York, NY 10034"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.86140109999999,
         "lng": -73.9242916
@@ -2459,6 +2890,9 @@
         "W. 174th St. and Fort Washington Ave.",
         "New York, NY 10033"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8463679,
         "lng": -73.941493
@@ -2476,6 +2910,9 @@
         "W. 129th St. and St. Nicholas Terrace",
         "New York, NY"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8137413,
         "lng": -73.9508867
@@ -2494,6 +2931,9 @@
         "105 E 116th Street",
         "New York, NY 10029"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7992563,
         "lng": -73.9425284
@@ -2511,6 +2951,9 @@
         "200 W 64th St.",
         "New York, NY 10023"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7737924,
         "lng": -73.986955
@@ -2528,13 +2971,16 @@
         "New York, NY 10003",
         "Monday – Thursday,  9 a.m. – 6 p.m."
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7327835,
         "lng": -73.9866134
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2545,13 +2991,16 @@
         "New York, NY 10027",
         "Monday – Thursday,  9 a.m. – 6 p.m."
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.807379,
         "lng": -73.9451897
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2562,13 +3011,16 @@
         "New York, NY 10016",
         "Monday – Thursday,  9 a.m. – 6 p.m."
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7364959,
         "lng": -73.97837129999999
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2579,13 +3031,16 @@
         "New York, NY 10022",
         "Monday – Thursday,  9 a.m. – 6 p.m."
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.755051,
         "lng": -73.96804999999999
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2596,13 +3051,16 @@
         "New York, NY 10018",
         "Monday – Thursday,  9 a.m. – 6 p.m."
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.753615,
         "lng": -73.9865612
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -2613,6 +3071,9 @@
         "Corner of 8th Avenue & 35th/36th Street",
         "New York, NY 10018"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.750568,
         "lng": -73.993519
@@ -2630,6 +3091,9 @@
         "Corner of 42nd St & 8th/9th Avenue",
         "New York, NY 10036"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7569006,
         "lng": -73.9902798
@@ -2647,6 +3111,9 @@
         "Corner of 125th & Lexington Ave/Park Ave",
         "New York, NY 10035"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8043863,
         "lng": -73.9374292
@@ -2664,6 +3131,9 @@
         "Corner of W 180th & Amsterdam Avenue",
         "New York, NY 10033"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8475035,
         "lng": -73.9318339
@@ -2681,14 +3151,17 @@
         "67 West 137th Street,",
         "New York, NY 10037"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.81537429999999,
         "lng": -73.9391279
       },
       "context": [
         "Monday – Thursday, 9 a.m. – 6 p.m.",
-        "Friday, 8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR and Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
@@ -2699,6 +3172,9 @@
         "Intersection of 68th and 1st Ave.",
         "Manhattan, NY 10065"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7651929,
         "lng": -73.95871799999999
@@ -2716,6 +3192,9 @@
         "Intersection of W. 167th St. and Broadway",
         "Manhattan, NY 10032"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8401417,
         "lng": -73.93998719999999
@@ -2733,14 +3212,16 @@
         "1901 1st Ave",
         "Manhattan, NY10029"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7848889,
         "lng": -73.9443993
       },
       "context": [
         "Thursday 9:00 a.m. – 6:00 p.m.",
-        "Friday 8:00 a.m. – 3:00 p.m.",
-        "Dates: Jan 6-7",
+        "Dates: Jan 6",
         "PCR, Rapid Antigen, & Flu Testing Available Here",
         "2 years old and above"
       ]
@@ -2751,13 +3232,16 @@
         "Stadium Parking Lot",
         "Manhattan, NY10035"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7932271,
         "lng": -73.92128579999999
       },
       "context": [
-        "Monday – Sunday, 9 a.m – 6 p.m",
-        "Dates: Jan 6 – 9",
+        "Monday, Wednesday, Friday, Saturday, 9 a.m – 6 p.m",
+        "Dates: Jan 7 – 16",
         "Rapid Antigen Testing Available Here",
         "2 years old and above"
       ]
@@ -2768,6 +3252,9 @@
         "On W. 135th between 5th ave. and Malcolm X Blvd",
         "Manhattan, NY10037"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8135525,
         "lng": -73.93861559999999
@@ -2785,6 +3272,9 @@
         "On E. 104th St. between Madison and Park Ave.",
         "Manhattan, NY10029"
       ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8140538,
         "lng": -73.9348394
@@ -2802,6 +3292,9 @@
         "701 Seventh Avenue (between W 47th and W 48th Street) aka 20 Times Square",
         "New York, NY 10036"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7579747,
         "lng": -73.9855426
@@ -2818,6 +3311,9 @@
         "462 First Avenue",
         "New York, New York 10016"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7396865,
         "lng": -73.9762044
@@ -2837,6 +3333,9 @@
         "227 Madison Street",
         "New York, New York 10002"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7129914,
         "lng": -73.98770329999999
@@ -2855,6 +3354,9 @@
         "506 Lenox Avenue",
         "New York, New York 10037"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8143104,
         "lng": -73.93950869999999
@@ -2872,6 +3374,9 @@
         "1901 First Avenue",
         "New York, New York 10029"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7848889,
         "lng": -73.9443993
@@ -2890,6 +3395,9 @@
         "268 Wadsworth Ave",
         "New York, NY 10033"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8534537,
         "lng": -73.93270590000002
@@ -2906,6 +3414,9 @@
         "439 West 204th",
         "New York, NY 10034"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8628088,
         "lng": -73.9197698
@@ -2922,6 +3433,9 @@
         "510 West 165th St",
         "New York, NY 10032"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8379329,
         "lng": -73.9392084
@@ -2938,12 +3452,16 @@
         "720 West 181st St",
         "New York, NY 10033"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8502935,
         "lng": -73.9368293
       },
       "context": [
-        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "Monday – Thursday, 9 a.m. – 2 p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -2954,12 +3472,16 @@
         "506 W 153 St",
         "New York, NY 10031"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8304315,
         "lng": -73.9445637
       },
       "context": [
-        "Monday – Friday, 9 a.m. – 2 p.m.",
+        "Monday – Thursday, 9 a.m. – 2 p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -2970,6 +3492,9 @@
         "3547 Broadway",
         "New York, NY 10031"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8268827,
         "lng": -73.95065439999999
@@ -2988,6 +3513,9 @@
         "2301 Amsterdam Ave.",
         "New York, NY 10033"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.842804,
         "lng": -73.93419
@@ -3006,6 +3534,9 @@
         "1314 St. Nicholas Ave,",
         "New York NY 10033"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.84581,
         "lng": -73.935873
@@ -3023,6 +3554,9 @@
         "4257 Broadway,",
         "New York NY 10033"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8501086,
         "lng": -73.93608859999999
@@ -3039,6 +3573,9 @@
         "200 Central Park South,",
         "New York NY 10019"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7665566,
         "lng": -73.9801335
@@ -3057,6 +3594,9 @@
         "1400 5th Avenue,",
         "New York NY 10026"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8005472,
         "lng": -73.9469577
@@ -3075,12 +3615,16 @@
         "571 Academy Street",
         "Manhattan, NY10034"
       ],
+      "borough": "Manhattan",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.8636415,
         "lng": -73.9229515
       },
       "context": [
-        "Monday – Friday 9:00a.m. -2:00p.m.",
+        "Monday – Thursday 9:00a.m. -2:00p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -3091,6 +3635,9 @@
         "203 West 146th Street,",
         "New York, NY 10039"
       ],
+      "borough": "Manhattan",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.8226479,
         "lng": -73.9397141
@@ -3107,6 +3654,9 @@
         "256 Henry Street,",
         "New York, NY 10002"
       ],
+      "borough": "Manhattan",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.7146217,
         "lng": -73.98586639999999
@@ -3123,6 +3673,9 @@
         "42-12 Rockaway Beach Blvd,",
         "Queens, NY 11691"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.5944565,
         "lng": -73.7716373
@@ -3139,6 +3692,9 @@
         "116-42 Farmers Blvd.",
         "Queens, NY 11412"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6926113,
         "lng": -73.7628577
@@ -3155,6 +3711,9 @@
         "145-01 Farmers Blvd",
         "Queens, NY 11434"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6661356,
         "lng": -73.7670957
@@ -3171,6 +3730,9 @@
         "Robard Lane & Hollis Ave",
         "Queens, NY 11429"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7115683,
         "lng": -73.73905839999999
@@ -3188,6 +3750,9 @@
         "106-22 Northern Blvd",
         "Queens, NY 11368"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.8120684,
         "lng": -73.92502429999999
@@ -3204,6 +3769,9 @@
         "Linden Blvd and Marne Pl",
         "Queens, NY 11434"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6922353,
         "lng": -73.7779984
@@ -3220,6 +3788,9 @@
         "Bay 32nd St & Falcon Ave,",
         "Far Rockaway, NY 11691"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6000489,
         "lng": -73.76785799999999
@@ -3236,6 +3807,9 @@
         "95-30 118th St",
         "Queens, NY 11419"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6911066,
         "lng": -73.8280284
@@ -3252,6 +3826,9 @@
         "47-01 111th street",
         "Queens, NY 11368"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.74805509999999,
         "lng": -73.88282389999999
@@ -3268,6 +3845,9 @@
         "167-04 108th Avenue",
         "Queens, NY 11433"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6979038,
         "lng": -73.7875195
@@ -3284,6 +3864,9 @@
         "130-20 Farmers Blvd",
         "Queens, NY11423"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6792204,
         "lng": -73.76198939999999
@@ -3300,6 +3883,9 @@
         "Bay 32nd St & Falcon Ave,",
         "Far Rockaway, NY 11691"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6000489,
         "lng": -73.76785799999999
@@ -3316,6 +3902,9 @@
         "Corner of 37th Ave & 104th Street",
         "Queens, NY11368"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7538604,
         "lng": -73.8632981
@@ -3332,6 +3921,9 @@
         "Terminal B Parking Lot, 1 Central Terminal Dr,",
         "Queens NY 11371"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7702565,
         "lng": -73.8694107
@@ -3348,6 +3940,9 @@
         "116-42 Farmers Blvd.",
         "St. Albans, NY 11412"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6926113,
         "lng": -73.7628577
@@ -3364,6 +3959,9 @@
         "216-0-216-98 75th Ave, Oakland Gardens, NY 11364",
         "St. Albans, NY 11412"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7387346,
         "lng": -73.7566284
@@ -3380,6 +3978,9 @@
         "Red Garage, Level 1",
         "Queens, NY11430"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6474526,
         "lng": -73.7906235
@@ -3396,6 +3997,9 @@
         "95 Avenue 125th St,",
         "South Richmond Hill, NY 11419"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6947111,
         "lng": -73.8216889
@@ -3412,6 +4016,9 @@
         "111-12 Sutphin Blvd",
         "Jamaica NY 11435"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6882411,
         "lng": -73.7955024
@@ -3428,6 +4035,9 @@
         "Corner of 37th Ave & 104th Street (streetside parking directly in front of church)",
         "Queens NY 11368"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7538604,
         "lng": -73.8632981
@@ -3444,6 +4054,9 @@
         "Corner of 104th Street and 41st Street,",
         "Corona, NY 11368"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7484612,
         "lng": -73.8619406
@@ -3460,6 +4073,9 @@
         "Streetside Parking at 50-37 Newtown Road,",
         "Queens NY 11377"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7534226,
         "lng": -73.9104811
@@ -3476,6 +4092,9 @@
         "116-42 Farmers Blvd.",
         "St. Albans, NY 11412"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6926113,
         "lng": -73.7628577
@@ -3492,6 +4111,9 @@
         "Kissena Blvd. &, 65th Ave,",
         "Flushing, NY 11367"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.736065,
         "lng": -73.813934
@@ -3508,6 +4130,9 @@
         "209-1 32nd Ave,",
         "Bayside, NY 11360"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7717621,
         "lng": -73.77936040000002
@@ -3524,6 +4149,9 @@
         "42nd St &, Greenpoint Ave,",
         "Woodside, NY 11377"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7412558,
         "lng": -73.9225823
@@ -3540,6 +4168,9 @@
         "42nd St &, Greenpoint Ave,",
         "Woodside, NY 11377"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7412558,
         "lng": -73.9225823
@@ -3556,6 +4187,9 @@
         "18-48 Cornaga Avenue",
         "Queens, NY 11691"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6025037,
         "lng": -73.7513574
@@ -3572,6 +4206,9 @@
         "136-50 Maple Ave,",
         "Flushing, NY 11355"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7559225,
         "lng": -73.82600819999999
@@ -3588,6 +4225,9 @@
         "109-55 128th St.",
         "Queens11420"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.68364709999999,
         "lng": -73.81317899999999
@@ -3604,6 +4244,9 @@
         "Bedell St. and Baisley Blvd",
         "Queens, NY11434"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6800091,
         "lng": -73.774982
@@ -3620,6 +4263,9 @@
         "Intersection of 46th Ave. and 109th St.",
         "Queens, NY 11368"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7474938,
         "lng": -73.8549547
@@ -3636,6 +4282,9 @@
         "128 -04 Liberty Avenue",
         "Queens11419"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6888507,
         "lng": -73.8167698
@@ -3652,6 +4301,9 @@
         "83-22 Baxter Ave",
         "Queens, NY11373"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7475597,
         "lng": -73.8828008
@@ -3668,6 +4320,9 @@
         "76-9 34th Ave,",
         "Queens, NY 11372"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7539534,
         "lng": -73.88936199999999
@@ -3685,6 +4340,9 @@
         "100 St & 24th Ave,",
         "East Elmhurst, NY 11369"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7657488,
         "lng": -73.8707687
@@ -3702,6 +4360,9 @@
         "Corner of 65th Street & Broadway,",
         "Queens NY 11377"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7488224,
         "lng": -73.8974478
@@ -3713,34 +4374,23 @@
         "All Ages"
       ]
     },
-    {
-      "name": "79-01 Broadway",
-      "address": [
-        "Queens, NY11373",
-        "Monday – Friday, Sunday, 9 a.m. – 6 p.m."
-      ],
-      "coordinates": {
-        "lat": 40.7450814,
-        "lng": -73.8857797
-      },
-      "context": [
-        "Dates: Jan 3 – 8, 9",
-        "4 years old and above"
-      ]
-    },
+    null,
     {
       "name": "91-07 Jamaica Avenue",
       "address": [
         "Queens, NY11421",
         "Monday – Thursday,  9 a.m. – 6 p.m."
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6933878,
         "lng": -73.85350799999999
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -3751,13 +4401,16 @@
         "Queens, NY11368",
         "Monday – Thursday,  9 a.m. – 6 p.m."
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.75073829999999,
         "lng": -73.8707154
       },
       "context": [
-        "Friday,  8 a.m. – 3 p.m.",
-        "Dates: Jan 3 – 7",
+        "Dates: Jan 3 – 6",
+        "Closed Friday",
         "PCR, Rapid Antigen and Flu Testing Available Here",
         "4 years old and above"
       ]
@@ -3768,6 +4421,9 @@
         "Beach 39 St between Rockaway Beach Boulevard and Beach Channel Drive,",
         "Queens, NY 1169"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.5952644,
         "lng": -73.7713777
@@ -3784,6 +4440,9 @@
         "Brookville Blvd & 147th Ave,",
         "Rosedale, NY 11422"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6571597,
         "lng": -73.7453305
@@ -3800,6 +4459,9 @@
         "Intersection of 30th Ave. and 21st St.",
         "Queens, NY 11102"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7705541,
         "lng": -73.9283585
@@ -3817,14 +4479,18 @@
         "CTS Mobile Testing Unit",
         "82-37 164th street"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7182708,
         "lng": -73.8033512
       },
       "context": [
         "Queens, NY 11432",
-        "Tuesday – Friday, 9 a.m. – 6 p.m.",
-        "Dates: Jan 4 – 7",
+        "Tuesday – Thursday, 9 a.m. – 6 p.m.",
+        "Dates: Jan 4 – 6",
+        "Closed Friday",
         "Rapid Antigen Testing Available Here",
         "2 years old and above"
       ]
@@ -3835,6 +4501,9 @@
         "Corner of Archer Av/Jamaica Av & Sutphin Blvd",
         "Queens, NY 11435"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.700822,
         "lng": -73.8079243
@@ -3852,6 +4521,9 @@
         "207 Beach 73rd Street,",
         "Arverne, NY 11692"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.5894125,
         "lng": -73.8015289
@@ -3869,6 +4541,9 @@
         "222-02 Merrick Blvd,",
         "Laurelton, NY 11413"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6787228,
         "lng": -73.74909869999999
@@ -3886,6 +4561,9 @@
         "Mott Avenue and Beach Channel Drive,",
         "Far Rockaway, NY 11691"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6051369,
         "lng": -73.75492009999999
@@ -3903,6 +4581,9 @@
         "144-08 243rd Street,",
         "Queens, NY 11422"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6601972,
         "lng": -73.7396352
@@ -3920,6 +4601,9 @@
         "Corner of 137 Street & 77 Avenue,",
         "Flushing NY 11367"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.721806,
         "lng": -73.8238026
@@ -3938,6 +4622,9 @@
         "78-08 Broadway,",
         "Queens NY 11373"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.74422879999999,
         "lng": -73.8864923
@@ -3956,6 +4643,9 @@
         "Intersection of 56th Ave. and 141st.",
         "Queens, NY11355"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7472926,
         "lng": -73.8205452
@@ -3973,6 +4663,9 @@
         "Intersection of 91st Ave. and 138th St.",
         "Queens, NY11435"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6996426,
         "lng": -73.8130718
@@ -3990,6 +4683,9 @@
         "PlaygroundIntersection of Union Turnpike and Park Lane South",
         "Queens, NY11418"
       ],
+      "borough": "Queens",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.7094983,
         "lng": -73.8360962
@@ -4007,6 +4703,9 @@
         "77-04 41st Avenue",
         "Elmhurst, New York 11373"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7455757,
         "lng": -73.8866528
@@ -4026,6 +4725,9 @@
         "82-68 164th Street",
         "Jamaica, New York 11432"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.717309,
         "lng": -73.80440469999999
@@ -4044,6 +4746,9 @@
         "18-48 Cornaga Avenue",
         "Queens, NY 11691"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6025037,
         "lng": -73.7513574
@@ -4060,6 +4765,9 @@
         "48-01 90th Street,",
         "Queens, NY 11373"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7411032,
         "lng": -73.87396629999999
@@ -4077,6 +4785,9 @@
         "100-00 Beach Channel Drive",
         "Far Rockaway, NY 11694"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.58637299999999,
         "lng": -73.8226608
@@ -4093,6 +4804,9 @@
         "5-25 46th Avenue",
         "Long Island City, NY 11101"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7475616,
         "lng": -73.9544299
@@ -4100,7 +4814,7 @@
       "context": [
         "Monday – Wednesday, 8 a.m. – 7 p.m.",
         "Thursday – Friday, Sunday 8 a.m. – 4 p.m.",
-        "PCR Testing Available Here",
+        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -4110,6 +4824,9 @@
         "34-43 93rd Street",
         "Queens, NY 11372"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7533088,
         "lng": -73.87429589999999
@@ -4126,6 +4843,9 @@
         "1103-12 Roosevelt Ave",
         "Queens, NY 11368"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7494785,
         "lng": -73.8622087
@@ -4142,12 +4862,16 @@
         "4140 Junction Boulevard",
         "Queens, NY 11368"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.746378,
         "lng": -73.868517
       },
       "context": [
-        "Monday – Friday, 10:00am to 2:00p.m.",
+        "Monday – Thursday, 10:00 a.m. to 2:00 p.m.",
+        "Closed Friday",
         "PCR Testing Available Here",
         "4 years old and above"
       ]
@@ -4158,6 +4882,9 @@
         "47-21 Queens Blvd.",
         "Queens, NY 11104"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.743363,
         "lng": -73.9170202
@@ -4176,6 +4903,9 @@
         "90-53 Sutphin Blvd.",
         "Queens, NY 11435"
       ],
+      "borough": "Queens",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.7015418,
         "lng": -73.80767329999999
@@ -4192,6 +4922,9 @@
         "110-31 Merrick Blvd,",
         "Queens, NY 11433"
       ],
+      "borough": "Queens",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6948948,
         "lng": -73.7814918
@@ -4208,6 +4941,9 @@
         "141-03 Lakewood Ave,",
         "Queens, NY 11435"
       ],
+      "borough": "Queens",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.689209,
         "lng": -73.80243399999999
@@ -4224,6 +4960,9 @@
         "8840 80th Street,",
         "Queens, NY 11421"
       ],
+      "borough": "Queens",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6948492,
         "lng": -73.84883119999999
@@ -4240,6 +4979,9 @@
         "65-30 Kissena Blvd.,",
         "Queens, NY 11367"
       ],
+      "borough": "Queens",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.7342647,
         "lng": -73.8160195
@@ -4256,6 +4998,9 @@
         "172-17 Linden Blvd,",
         "Queens, NY 11434"
       ],
+      "borough": "Queens",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6922353,
         "lng": -73.7779984
@@ -4272,6 +5017,9 @@
         "43-31 39th Street,",
         "Queens, NY 11104"
       ],
+      "borough": "Queens",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.7447776,
         "lng": -73.9257812
@@ -4288,6 +5036,9 @@
         "New York City Building,",
         "Queens, NY 11368"
       ],
+      "borough": "Queens",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.745914,
         "lng": -73.8467247
@@ -4304,6 +5055,9 @@
         "167-04 108th Avenue,",
         "Queens, NY 11433"
       ],
+      "borough": "Queens",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6979038,
         "lng": -73.7875195
@@ -4314,12 +5068,16 @@
         "4 years old and above"
       ]
     },
+    null,
     {
       "name": "Wolfe’s Pond Park (Parking Lot)",
       "address": [
         "Wolfe’s Pond Park Chester St,",
         "Staten Island, NY 10312"
       ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.51755929999999,
         "lng": -74.1900464
@@ -4336,6 +5094,9 @@
         "Staten Island, NY10304",
         "Monday – Tuesday, 8 a.m. – 6 p.m."
       ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.624338,
         "lng": -74.0803018
@@ -4346,34 +5107,22 @@
       ]
     },
     {
-      "name": "NYPL – Richmondtown Library",
-      "address": [
-        "200 Clarke Ave,",
-        "Staten Island, NY 10306"
-      ],
-      "coordinates": {
-        "lat": 40.5665074,
-        "lng": -74.1384473
-      },
-      "context": [
-        "Monday – Thursday, 8 a.m. – 7 p.m.",
-        "Dates: Jan 3 – 6",
-        "4 years old and above"
-      ]
-    },
-    {
       "name": "Gerard P. Dugan Playground",
       "address": [
         "280 Mill Rd, Staten Island, NY 10306",
         "Staten Island, NY10306"
       ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.5613882,
         "lng": -74.11077379999999
       },
       "context": [
-        "Friday – Sunday, 8 a.m. – 7 p.m.",
-        "Dates: Jan 7 – 9",
+        "Saturday – Sunday, 8 a.m. – 7 p.m.",
+        "Dates: Jan 8 – 9",
+        "Closed Friday",
         "4 years old and above"
       ]
     },
@@ -4383,6 +5132,9 @@
         "57 Cleveland Place",
         "Staten Island, NY10305"
       ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6012163,
         "lng": -74.0687077
@@ -4399,6 +5151,9 @@
         "Bay St. and Water St.",
         "Staten Island, NY10304"
       ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.6267868,
         "lng": -74.07672819999999
@@ -4415,6 +5170,9 @@
         "1180 Rockland Ave,",
         "Staten Island, NY 10314"
       ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.5928804,
         "lng": -74.1562993
@@ -4431,6 +5189,9 @@
         "50 Maguire Avenue,",
         "Staten Island, NY 10309"
       ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.5264306,
         "lng": -74.2110833
@@ -4448,6 +5209,9 @@
         "Arthur Kill Rd & Brookfield Ave,",
         "Staten Island, NY 10308"
       ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
       "coordinates": {
         "lat": 40.563713,
         "lng": -74.16279399999999
@@ -4460,11 +5224,34 @@
       ]
     },
     {
+      "name": "Port Richmond High School",
+      "address": [
+        "85 St. Joseph’s Avenue",
+        "Staten Island, NY 10302"
+      ],
+      "borough": "Staten island",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
+      "coordinates": {
+        "lat": 40.6351288,
+        "lng": -74.142217
+      },
+      "context": [
+        "Wednesday – Sunday, 8 a.m. – 7 p.m.",
+        "Dates: Jan 5 – 9",
+        "PCR and Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
+    {
       "name": "NYC Health + Hospitals/Gotham Health, Vanderbilt",
       "address": [
         "165 Vanderbilt Avenue",
         "Staten Island, NY 10304"
       ],
+      "borough": "Staten island",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6203745,
         "lng": -74.0768895
@@ -4482,6 +5269,9 @@
         "57 Cleveland Place",
         "Staten Island, NY 10305"
       ],
+      "borough": "Staten island",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6012163,
         "lng": -74.0687077
@@ -4497,6 +5287,9 @@
         "501 Brielle Avenue",
         "Staten Island, NY 10314"
       ],
+      "borough": "Staten island",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.5918312,
         "lng": -74.13919899999999
@@ -4513,6 +5306,9 @@
         "Terminal 1 Bay St, Retail Space 103 (Level 1 of the Ferry Terminal, next to the North Shore Esplanade exit)",
         "Staten Island, NY 10301"
       ],
+      "borough": "Staten island",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.64409819999999,
         "lng": -74.0725489
@@ -4529,6 +5325,9 @@
         "460 Brielle Ave,",
         "Staten Island, NY 10314"
       ],
+      "borough": "Staten island",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.591681,
         "lng": -74.13255970000002
@@ -4545,29 +5344,16 @@
         "125 Cassidy Place",
         "Staten Island, NY 10451"
       ],
+      "borough": "Staten island",
+      "siteType": "mortar",
+      "testType": "Testing Types Specified Below",
       "coordinates": {
         "lat": 40.6422563,
         "lng": -74.0964201
       },
       "context": [
-        "Monday – Friday, 8 a.m. – 4 p.m.",
-        "PCR Testing Available Here",
-        "4 years old and above"
-      ]
-    },
-    {
-      "name": "Port Richmond High School",
-      "address": [
-        "85 St. Joseph’s Avenue",
-        "Staten Island, NY 10302"
-      ],
-      "coordinates": {
-        "lat": 40.6351288,
-        "lng": -74.142217
-      },
-      "context": [
-        "Monday – Sunday, 7:30 a.m. – 7 p.m.",
-        "PCR Testing Available Here",
+        "Monday – Friday, 8:30 a.m. – 4 p.m.",
+        "Rapid Antigen Testing Available Here",
         "4 years old and above"
       ]
     },
@@ -4577,6 +5363,9 @@
         "166 Port Richmond Ave,",
         "Staten Island, NY 10302"
       ],
+      "borough": "Staten island",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.637165,
         "lng": -74.134333
@@ -4593,6 +5382,9 @@
         "2134 Richmond Terrace,",
         "Staten Island, NY 10302"
       ],
+      "borough": "Staten island",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6401964,
         "lng": -74.13431539999999
@@ -4609,6 +5401,9 @@
         "56 Bay Street,",
         "Staten Island, NY 10301"
       ],
+      "borough": "Staten island",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6407076,
         "lng": -74.0759545
@@ -4625,6 +5420,9 @@
         "230 Broadway, Staten Island, NY 10310",
         "Staten Island, NY10310"
       ],
+      "borough": "Staten island",
+      "siteType": "micro",
+      "testType": "Saliva-based PCR",
       "coordinates": {
         "lat": 40.6358329,
         "lng": -74.1177105

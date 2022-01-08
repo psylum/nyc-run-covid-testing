@@ -31,13 +31,23 @@ class Mapbox {
 
 const formatPopup = (location, waitTimeObj) => (`
   <div class="font-sans px-2">
-    <h3 class="text-lg font-bold py-1">${location.name}</h3>
+    <h3 class="text-lg font-bold py-1">${typeIcon(location.siteType || '')} ${location.name}</h3>
     <h3 class="text-md font-bold py-1">Location</h3>
     ${location.address.reduce((t, v) => t.concat(`<p class="text-md">${v}</p>`), '')}
+    ${location.testType ? `<h3 class="text-md font-bold py-1">Testing Types</h3><p class="text-md">${location.testType}</p>` : ''}
     <h3 class="text-md font-bold py-1">Details</h3>
     ${location.context.filter(d => d !== "Pre-register for your visit").reduce((t, v) => t.concat(`<p class="text-md">${v}</p>`), '')}
     ${waitTimeObj ? `<h3 class="text-md font-bold py-1">Wait Times</h3><p>Current wait time: ${waitTimeObj.wait_time}</p><p>Wait time last reported: ${waitTimeObj.last_reported}</p>` : ''}
   </div>
 `);
+
+const typeIcon = (locationType) => {
+  switch(locationType) {
+    case 'mortar': return '🏥';
+    case 'mobile': return '🚑';
+    case 'micro': return '⛺️';
+    default: return '';
+  }
+}
 
 export default Mapbox;

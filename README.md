@@ -5,7 +5,7 @@ Many thanks to [ctbarna](https://github.com/ctbarna)'s open source project [covi
 
 ### Requirements
 
-The scraper requires a google API token for geolocation, and the mapbox component requires a mapbox access token. Add those in your terminal or in an `.env` file:
+The scraper requires Node v11+, a google API token for geolocation, and the mapbox component requires a mapbox access token. Add those in your terminal or in an `.env` file:
 ```
 GOOGLE_API_KEY=[token]
 NODE_ENV_MAPBOX_ACCESS_TOKEN=[token]
