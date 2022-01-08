@@ -34,8 +34,8 @@ async function scrapeData() {
         const heltIdx = heltId.lastIndexOf("-");
         const boroughVal = heltId.slice(0, heltIdx);
         const heltText = $(helt).text();
-        const borough = boroughVal.charAt(0).toUpperCase()
-          + boroughVal.slice(1).replace("-", " ");
+        const borough = boroughVal.split("-").map(
+          word => word.charAt(0).toUpperCase()+word.slice(1)).join(" ");
         const siteType = heltId.slice(heltIdx+1);
         const testType = heltText.includes(':') ? heltText.split(': ').pop() : '';
         let nextNode = helt.next;

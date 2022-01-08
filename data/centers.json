@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-01-08T04:18:09.045Z",
+  "timestamp": "2022-01-08T04:37:14.039Z",
   "centers": [
     {
       "name": "Stars and Stripes Playground",
@@ -2683,7 +2683,27 @@
         "4 years old and above"
       ]
     },
-    null,
+    {
+      "name": "Quisqueya Playground",
+      "address": [
+        "2405 Amsterdam Ave",
+        "New York, NY 10033"
+      ],
+      "borough": "Manhattan",
+      "siteType": "mobile",
+      "testType": "Rapid and PCR available",
+      "coordinates": {
+        "lat": 40.8471006,
+        "lng": -73.9313288
+      },
+      "context": [
+        "Monday – Thursday, Saturday – Sunday,  8 a.m. – 7 p.m.",
+        "Dates: Jan 3 – 6, Jan 8 – 9",
+        "Closed Friday",
+        "Rapid Antigen Testing Available Here",
+        "4 years old and above"
+      ]
+    },
     {
       "name": "Vision Urbana",
       "address": [
@@ -5075,7 +5095,7 @@
         "Wolfe’s Pond Park Chester St,",
         "Staten Island, NY 10312"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5094,7 +5114,7 @@
         "Staten Island, NY10304",
         "Monday – Tuesday, 8 a.m. – 6 p.m."
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5112,7 +5132,7 @@
         "280 Mill Rd, Staten Island, NY 10306",
         "Staten Island, NY10306"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5132,7 +5152,7 @@
         "57 Cleveland Place",
         "Staten Island, NY10305"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5151,7 +5171,7 @@
         "Bay St. and Water St.",
         "Staten Island, NY10304"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5170,7 +5190,7 @@
         "1180 Rockland Ave,",
         "Staten Island, NY 10314"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5189,7 +5209,7 @@
         "50 Maguire Avenue,",
         "Staten Island, NY 10309"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5209,7 +5229,7 @@
         "Arthur Kill Rd & Brookfield Ave,",
         "Staten Island, NY 10308"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5229,7 +5249,7 @@
         "85 St. Joseph’s Avenue",
         "Staten Island, NY 10302"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mobile",
       "testType": "Rapid and PCR available",
       "coordinates": {
@@ -5249,7 +5269,7 @@
         "165 Vanderbilt Avenue",
         "Staten Island, NY 10304"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mortar",
       "testType": "Testing Types Specified Below",
       "coordinates": {
@@ -5269,7 +5289,7 @@
         "57 Cleveland Place",
         "Staten Island, NY 10305"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mortar",
       "testType": "Testing Types Specified Below",
       "coordinates": {
@@ -5287,7 +5307,7 @@
         "501 Brielle Avenue",
         "Staten Island, NY 10314"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mortar",
       "testType": "Testing Types Specified Below",
       "coordinates": {
@@ -5306,7 +5326,7 @@
         "Terminal 1 Bay St, Retail Space 103 (Level 1 of the Ferry Terminal, next to the North Shore Esplanade exit)",
         "Staten Island, NY 10301"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mortar",
       "testType": "Testing Types Specified Below",
       "coordinates": {
@@ -5325,7 +5345,7 @@
         "460 Brielle Ave,",
         "Staten Island, NY 10314"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mortar",
       "testType": "Testing Types Specified Below",
       "coordinates": {
@@ -5344,7 +5364,7 @@
         "125 Cassidy Place",
         "Staten Island, NY 10451"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "mortar",
       "testType": "Testing Types Specified Below",
       "coordinates": {
@@ -5363,7 +5383,7 @@
         "166 Port Richmond Ave,",
         "Staten Island, NY 10302"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "micro",
       "testType": "Saliva-based PCR",
       "coordinates": {
@@ -5382,7 +5402,7 @@
         "2134 Richmond Terrace,",
         "Staten Island, NY 10302"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "micro",
       "testType": "Saliva-based PCR",
       "coordinates": {
@@ -5401,7 +5421,7 @@
         "56 Bay Street,",
         "Staten Island, NY 10301"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "micro",
       "testType": "Saliva-based PCR",
       "coordinates": {
@@ -5420,7 +5440,7 @@
         "230 Broadway, Staten Island, NY 10310",
         "Staten Island, NY10310"
       ],
-      "borough": "Staten island",
+      "borough": "Staten Island",
       "siteType": "micro",
       "testType": "Saliva-based PCR",
       "coordinates": {
